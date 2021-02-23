@@ -8,4 +8,7 @@ h1{color:grey;}
 	border-radius: 25px;
 	margin: auto;
 }
+.maindiv .content .highlight { 
+    background-color: yellow;
+}
 
